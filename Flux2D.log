@@ -1,0 +1,63 @@
+Loading data model 'Flux_model.stp'
+Recording commands in 'E:/Flux_dir/PMLSM/PMLSM_Cogging_Correctly_Solved/Flux2D_log.py'
+ 
+                                       FLUX2D_11.2.0 : 2D Finite Element Electromagnetism
+                                              489 MiB N. + 50 MiB C. + 232 MiB J.
+                                         Build 1311270817 Win32 2/4 cores EC-ROSTAMI N.
+ 
+11:16:15       0 sec. FLUX2D_11.2.0 kernel initialized
+
+Flux2D (application 11.2) running
+
+Loading project 'E:/Flux_dir/PMLSM/PMLSM_Cogging_Correctly_Solved/Cogging_PML_transient_Parametric_solved.FLU'
+11:16:20       4 sec. Start reading ...
+11:16:22       6 sec. ... end reading
+Updating the data structure: merge standard database
+Value of parameter PI : 3.14159265358979
+Value of parameter LENGTH : 216
+Value of parameter POLES : 8
+Value of parameter SLOTS : 9
+Value of parameter AIRGAP : 1
+Value of parameter H_MAGNET_BACK : 12
+Value of parameter H_MAGNET : 5
+Value of parameter ALPHA_P : 0.7
+Value of parameter H_SLOT : 25
+Value of parameter ALPHA_S : 0.54
+Value of parameter H_STATOR_BACK : 12
+Value of parameter LAYER : 2
+Value of parameter MU_R : 1.05
+Value of parameter BR : 1.23
+Value of parameter TIME : 5.4
+Value of parameter LINVT_MOVING : 0.001
+Value of parameter ELFORC_MOVING : -0.642025454236006
+Value of parameter IFFORC_MOVING : 0
+Value of parameter FORCEFRINT_MOVING : 0
+Value of parameter FORCESPINT_MOVING : 0
+Value of parameter FORCEREINT_MOVING : 0
+Value of parameter LINPOS_MOVING : 0.0054
+... end loading project
+Closing project
+Close of E:/FLUX_DIR/PMLSM/PMLSM_COGGING_CORRECTLY_SOLVED/COGGING_PML_TRANSIENT_PARAMETRIC_SOLVED
+... end closing project
+Maximum use of 45 Mo. in numerical memory
+For the dynamic table ID 182970
+Maximum use of 8 Mo. in character memory
+For the dynamic table ID 166594
+ 
+   NUMZM         ADRES    SUIV    PREC    CODE          LONG           UID     PROP4   ...
+ 
+       1             3       6       4   R08 5             0             0
+       2             1       5       5   C80 8             0             0
+       4      64218982       1       6   R08 5             0             0
+       5        655361       2       2   C80 8             0             0
+       6             5       4       1   I04 2        360037             0
+Numerical memory: Total length                   =  64218981
+(8 byte words)    Present length                 =    180021
+                  Useful length                  =    180021
+                  Number of numerical arrays     =         3
+Character memory: Total length                   =    655360
+(80 byte words)   Present length                 =         0
+                  Useful length                  =         0
+                  Number of character arrays     =         2
+Maximum number of arrays (num+char)              =     60006
+ 
